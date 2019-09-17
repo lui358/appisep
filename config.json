@@ -1,5 +1,5 @@
 {
-    "app_id": "com.grupoisep.isep",
+    "app_id": "com.isep.isepmobile", //com.grupoisep.isep
     "appname": "Moodle Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3700,
